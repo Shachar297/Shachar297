@@ -1,7 +1,5 @@
 # Namaste !
 
-<img src="./cw.png">
-
 <!-- ![Shachar297](https://bit.ly/3gj8mnc) -->
 
 ### Fullstack developer, Devops Engineer, Jira Consultent, Agile expert.
